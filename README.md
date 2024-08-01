@@ -15,9 +15,28 @@
   <a href="https://topmate.io/dpvasani_56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" alt="dpvasani_56" height="30" width="30" /></a>
 </p>
 
+# Recursion
+
+Welcome to the `Recursion` repository! This repository is dedicated to exploring and mastering recursive algorithms and techniques in C++. It includes a variety of code samples, exercises, and homework assignments that will help you understand and apply recursive principles effectively.
+
+## 📂 Repository Structure
+
+- **Recursion-Level-I**: Basic recursion exercises and implementations.
+- **Recursion-Level-II**: Intermediate recursion exercises and projects.
+- **Recursion-Level-III**: Advanced recursion problems and implementations.
+- **Recursion-Level-IV**: Very advanced recursion problems and implementations.
+- **Backtracking**: Problems involving backtracking techniques.
+- **DnC-Level-I**: Basic divide and conquer exercises.
+- **DnC-Level-II**: Intermediate divide and conquer exercises.
+- **DnC-Level-III**: Advanced divide and conquer problems.
+- **DnC-Level-IV**: Very advanced divide and conquer problems.
+- **N-Queen-Problem-Optimized**: Optimized solutions for the N-Queen problem.
+- **Subsequence-Of-String**: Problems involving subsequences of strings.
+- **Pdf Notes**: PDF notes covering various recursion concepts and principles.
 
 
-Welcome to my 30 Days of Data Structures and Algorithms series! Follow my journey as I solve various DSA problems day by day. Each day's progress is documented below with links to the solutions.
+## 📂 Overview 
+
 
 | No  | Topics Covered               | Problems Solved                                              | Solution Links                                                                                         |
 |------|------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
